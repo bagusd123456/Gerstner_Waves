@@ -1,4 +1,4 @@
-# Gerstner_Waves
+# Gerstner Waves
 Unity URP Water Shader with Buoyancy
 
 This shader is a combination of all the tutorials below.
